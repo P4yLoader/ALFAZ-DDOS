@@ -90,4 +90,4 @@ python3 ddos2.py
 ## 📣 Créditos
 
 - Autor: [mdalfaz](https://github.com/mdalfaz)  
-- Formatação: [IGSMBRASIL](https://igsmbrasil.online)
+- Formatação: [P4yLoader](https://igsmbrasil.online)
