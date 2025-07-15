@@ -6,9 +6,9 @@ Ferramenta de testes DDoS para uso educacional.
 
 ## 📦 Instalação
 
-bash
+```bash
 pkg install python3
-
+````
 
 
 bash
