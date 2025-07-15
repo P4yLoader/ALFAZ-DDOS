@@ -8,10 +8,8 @@ Ferramenta de teste DDoS para uso educacional.
 
 Execute os comandos abaixo *um por um*:
 
-bash
+```bash
 pkg install python3
 
-##
-
-bash
+Bash
 pkg install pip
