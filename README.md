@@ -11,5 +11,7 @@ Execute os comandos abaixo *um por um*:
 ```bash
 pkg install python3
 
-Bash
+##
+
+```bash
 pkg install pip
