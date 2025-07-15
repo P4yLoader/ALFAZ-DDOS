@@ -8,42 +8,42 @@ Ferramenta de testes DDoS para uso educacional.
 
 ```bash
 pkg install python3
-````
+```
 
 
-bash
+```bash
 pkg install git
+```
 
 
-
-bash
+```bash
 rm -rf alfaz_ddos
+```
 
 
-
-bash
+```bash
 chmod +x *
+```
 
 
-
-bash
+```bash
 git clone https://github.com/mdalfaz/alfaz_ddos.git
+```
 
 
-
-bash
+```bash
 cd alfaz_ddos
+```
 
 
-
-bash
+```bash
 ls
+```
 
 
-
-bash
+```bash
 python3 setup.py
-
+```
 
 
 ---
